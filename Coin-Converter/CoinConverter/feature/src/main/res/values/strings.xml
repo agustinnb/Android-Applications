@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="action_addnewcoin">Add new Coin/Currency</string>
+    <string name="action_deletecoin">Delete Coin/Currency</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="textview_quantity">Quantity</string>
+    <string name="hint_quantity">0.000001</string>
+    <string name="button_convert">CONVERT</string>
+    <string name="title_activity_add_coins">Add Coins</string>
+    <string name="selectcur">Select Currency/Coin</string>
+    <string name="filt">Filter...</string>
+    <string name="slide_1_title">Coin Converter</string>
+    <string name="slide_1_desc">Loading...</string>
+
+</resources>
